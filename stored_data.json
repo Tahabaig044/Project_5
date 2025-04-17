@@ -1,0 +1,27 @@
+{
+    "maheen": {
+        "programming": {
+            "encrypted_text": "gAAAAABn_VH4UCAd9m1eyHv4r2STVwoO_HdePIqeq-22oHfOLwyGEjJ9-biND7maIjbV5xRSBTEnFP5PNx8UDL2U1iWNh3Pb2M36lTI47Lw50lXdFbtzHws="
+        },
+        "mahin": {
+            "encrypted_text": "gAAAAABn_-bgd3Qc8mio1BjQ_CaSMsWZlBgNFkzWoYhBNi5Qes372nypup9P8F71LVQFQCBaMZTZJgkDaXnDoUj6Vem_f3TQj2Zp7vD1CkYf7ySs2WE4US8="
+        }
+    },
+    "Mahin ": {
+        "learning": {
+            "encrypted_text": "gAAAAABn_-wl1jK0bpb-aZZxiLQwxudhH8A8v7TuQJ2pbAYr4boHNx24yEvXq_l9DrjzdbcTzg_LZoEL5n7GMh_rPEVd_DhQ7qbq1EY-LIIuupK4zQ7gyVk="
+        },
+        "email_password": {
+            "encrypted_text": "gAAAAABoAAbkNedBuUqcZMIUyuFvKr6kaVIKRgt14PQhWSjStxiuLSlmEmxLvUxZGFXemGH_FCd-jZzcvOwG1VaMWPaNbAxTeweKYNwXtM2_mvBrhuy4wQk="
+        },
+        "my_password": {
+            "encrypted_text": "gAAAAABoAAuOT4mghYZquNeWqO6AYCh1TlSAJAN2trJPY3xNo3ZpGs8SRXjHDDqzb2TVJ1jgTE3Ez5q99N0Q4HBZMEMB-emJVom2HVPwwhXEM98YQE5l5yw=",
+            "method": "Fernet"
+        }
+    },
+    "Mahin": {
+        "programming data": {
+            "encrypted_text": "gAAAAABoAAVgYAMEGN9PCf7XStcSuYXbVgY-QeECWYR8C52loFtmHPAkSLSJQ_81D7iwnWZ66Z75FJNtN61ZEicRsLi-rSltWGFnA2qu4FXsctNTh0ucz0A="
+        }
+    }
+}
